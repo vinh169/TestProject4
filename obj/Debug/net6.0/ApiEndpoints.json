@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "TestProject.Controllers.TestConnectController",
+    "Method": "testConnect",
+    "RelativePath": "api/testConnect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestProject.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "test/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
